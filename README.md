@@ -1,3 +1,5 @@
+![boomframe logo](boomframe-logo.svg)
+
 # Welcome
 
 This is my submission for my Object Oriented Programing course at Rutgers University.
